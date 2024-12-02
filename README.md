@@ -114,11 +114,6 @@ Contribuições são bem-vindas! Para contribuir com este projeto:
 3. Faça suas alterações.
 4. Envie um pull request explicando as modificações feitas.
 
-## Licença
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 ### Autor
 
